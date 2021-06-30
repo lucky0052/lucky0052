@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @lucky0052
+- 👋 Hi, I’m Lucky.
 - 👀 I’m interested in web development, Frontend.
 - 🌱 I’m currently learning javascript.
 - 💞️ I’m looking to collaborate on ...
