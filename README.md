@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Lucky.
-- 👀 I’m interested in Data analysis, data visualisation, AI and ML.
+- 👀 I’m interested in Data analysis, data visualisation, AI, Web Development.
 - 🌱 I’m currently learning tableau.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me lucky52.bhaman@gmail.com
